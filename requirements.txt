@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain-core
+langchain-openai
+tavily-python
+apify-client
+firecrawl-py
+youtube-transcript-api
+yt-dlp
+fastapi
+apscheduler
+sqlmodel
+python-telegram-bot
+twilio
+loguru
