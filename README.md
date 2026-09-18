@@ -1,4 +1,4 @@
-# CRSAM# CRSAM (Content Research & Scripting Autonomous Module)
+# CRSAM (Content Research & Scripting Autonomous Module)
 ## Production System Architecture & Implementation Plan
 
 ---
